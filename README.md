@@ -82,6 +82,7 @@ Maxmind updates their city database once a month. Grab the latest one and restar
 
 TODO
 =================
+* Make it easier to get up and running by scripting the installation of the dependencies and the geo db data file
 * Unit tests
 
 License
